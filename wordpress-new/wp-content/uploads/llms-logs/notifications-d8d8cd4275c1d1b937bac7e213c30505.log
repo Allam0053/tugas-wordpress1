@@ -1,0 +1,20 @@
+08-05-2020 @ 07:13:10 - Queuing email notification ID #8
+08-05-2020 @ 07:13:30 - Dispatching llms_notification_processor_email
+08-05-2020 @ 07:13:33 - sending email notification ID #8
+08-05-2020 @ 07:13:36 - error sending email notification ID #8
+08-05-2020 @ 07:13:36 - Array
+(
+    [id] => 8
+    [created] => 2020-08-05 07:13:10
+    [updated] => 2020-08-05 07:13:10
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => course_complete
+    [user_id] => 1
+    [post_id] => 25025
+    [html] => <p>Congratulations!   You completed HTML Courses</p>
+
+)
+
+08-05-2020 @ 07:13:36 - Processing for llms_notification_processor_email finished
