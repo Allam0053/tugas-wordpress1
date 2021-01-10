@@ -25,5 +25,5 @@ Web ini juga menggunakan beberapa plug-in, antara lain:
 ****  
 📗 Web:  
   <img src="Screenshot/Software-House-Home.png" width="400" display="flex">
-  <img src="Screenshot/Software-House-About.png" width="400" display="flex">
+  <img src="Screenshot/Software-House-About.png" width="400">
 **** 
