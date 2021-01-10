@@ -24,6 +24,23 @@ Web ini juga menggunakan beberapa plug-in, antara lain:
 
 ****  
 📗 Web:  
-  <img src="Screenshot/Software-House-Home.png" width="400" display="flex">
+  Halaman awal (Home)
+  <img src="Screenshot/Software-House-Home.png" width="300">
+  Halaman About
   <img src="Screenshot/Software-House-About.png" width="400">
+  Halaman Course
+  <img src="Screenshot/Software-House-Course.png" width="400">
+  Halaman Article
+  <img src="Screenshot/Software-House-Article.png" width="400">
+  Halaman Contact
+  <img src="Screenshot/Software-House-Contact.png" width="400">
+  Halaman Help
+  <img src="Screenshot/Software-House-Help.png" width="400">
+  
+  Konten Course
+  <img src="Screenshot/Konten-HTML-Software-House.png" width="400">
+  -->
+  <img src="Screenshot/HTML-Courses-Software-House.png" width="400">
+
+  
 **** 
