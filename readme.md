@@ -26,15 +26,15 @@ Web ini juga menggunakan beberapa plug-in, antara lain:
 📗 Web:  
   Halaman awal (Home)<br>
   <img src="Screenshot/Software-House-Home.png" width="300"><br>
-  Halaman About
+  Halaman About<br>
   <img src="Screenshot/Software-House-About.png" width="300"><br>
-  Halaman Course
+  Halaman Course<br>
   <img src="Screenshot/Software-House-Course.png" width="300"><br>
-  Halaman Article
+  Halaman Article<br>
   <img src="Screenshot/Software-House-Article.png" width="300"><br>
-  Halaman Contact
+  Halaman Contact<br>
   <img src="Screenshot/Software-House-Contact.png" width="300"><br>
-  Halaman Help
+  Halaman Help<br>
   <img src="Screenshot/Software-House-Help.png" width="300"><br>
   
   Konten Course<br>
