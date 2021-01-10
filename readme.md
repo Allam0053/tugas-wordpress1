@@ -44,8 +44,7 @@ Web ini juga menggunakan beberapa plug-in, antara lain:
   ****
   
   Konten Course<br>
-  <img src="Screenshot/Konten-HTML-Software-House.png" width="300"><br>
-  --><br>
+  <img src="Screenshot/Konten-HTML-Software-House.png" width="300">
   <img src="Screenshot/HTML-Courses-Software-House.png" width="300"><br>
 
   
